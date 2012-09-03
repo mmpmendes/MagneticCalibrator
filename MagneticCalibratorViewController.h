@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 GNSSLab. All rights reserved.
 
 //  These are my changes to test git
+//  HOW DOES THIS WORK ????
 //
 
 #import "MagneticCalibratorAppDelegate.h"
